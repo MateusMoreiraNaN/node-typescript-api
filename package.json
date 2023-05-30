@@ -1,0 +1,19 @@
+{
+  "name": "cursodenodejscompletocomtypescriptjesttddgithub",
+  "version": "1.0.0",
+  "description": "node.js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Moreira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.1",
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
+}
